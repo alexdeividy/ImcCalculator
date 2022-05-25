@@ -14,4 +14,5 @@ Desafio de construir um app usando APIs do React Native:
 - Vibration
 - Keyboard
 - Share
+- KeyExtractor
 - (props)
