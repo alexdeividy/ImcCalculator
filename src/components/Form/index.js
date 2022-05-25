@@ -121,12 +121,9 @@ export default function Form(){
                         <Text style={styles.TextResultItemList}>Resultado IMC = </Text>
                         {item.imc}
                     </Text>
-            )
-            }}
-            keyExtractor={(item) => {
-                item.id
-            }}
-
+                     )
+                    }}
+                keyExtractor={item =>item.id}
             />
 
             </View>
