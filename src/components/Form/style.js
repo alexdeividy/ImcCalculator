@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
         paddingTop: 14,
         paddingBottom: 14,
         marginLeft: 12,
-        marginTop: 10,
+        marginTop: 15,
     },
     textButtonCalculator:{
         fontSize: 20,
@@ -45,6 +45,10 @@ const styles = StyleSheet.create({
         color: "red",
         fontWeight: "bold",
         paddingLeft: 20,
+    },
+    exibitionResultImc:{
+        width: "100%",
+        height: "50%",
     }
 });
 
